@@ -1,2 +1,0 @@
-# Derbygolf
-Derby Golf Tournament
